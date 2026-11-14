@@ -1,0 +1,17 @@
+# Build output
+build/
+build-*/
+dist/
+# Third-party code fetched separately (see README.md): JUCE 8.0.15
+external/
+# Downloaded tools (pluginval etc.), not part of the source
+tools/
+# Rendered audio (regenerate with the render test)
+renders/*.wav
+!renders/demo.wav
+!renders/m2_demo.wav
+!renders/m3_demo.wav
+!renders/m4_demo.wav
+!renders/m5_preset_tour.wav
+*.swp
+.DS_Store

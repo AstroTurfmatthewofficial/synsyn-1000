@@ -1,0 +1,22 @@
+SynSyn 1000 - source code availability
+======================================
+
+SynSyn 1000 is Copyright (C) 2026 DoubleDouble Instrumentations and is licensed
+under the GNU Affero General Public License, version 3 or (at your option) any
+later version (AGPL-3.0-or-later). The full licence text is in LICENSE.
+
+The complete Corresponding Source for this build (the SynSyn 1000 source code,
+build scripts, and the exact third-party sources used, including JUCE 8.0.15)
+is available free of charge at:
+
+    [SOURCE URL PLACEHOLDER - not yet published]
+
+The source for a given binary release is the repository tag matching its
+version number (this package: v0.6.1).
+
+You may copy, modify and redistribute this program under the terms of the
+AGPLv3. If you modify it and let users interact with it over a network, the
+AGPLv3 requires you to offer those users the corresponding source of your
+modified version.
+
+This program comes with ABSOLUTELY NO WARRANTY.

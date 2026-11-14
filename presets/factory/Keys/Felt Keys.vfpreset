@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<SynSyn1000Preset format="1" name="Felt Keys" category="Keys" author="DoubleDouble Instrumentations"
+                version="0.5.0">
+  <SynSyn1000>
+    <PARAM id="osc1_wave" value="3.0"/>
+    <PARAM id="osc1_on" value="1.0"/>
+    <PARAM id="osc1_level" value="1.0"/>
+    <PARAM id="osc1_coarse" value="0.0"/>
+    <PARAM id="osc1_fine" value="0.0"/>
+    <PARAM id="osc2_wave" value="1.0"/>
+    <PARAM id="osc2_on" value="1.0"/>
+    <PARAM id="osc2_level" value="0.25"/>
+    <PARAM id="osc2_coarse" value="0.0"/>
+    <PARAM id="osc2_fine" value="-4.0"/>
+    <PARAM id="osc3_wave" value="1.0"/>
+    <PARAM id="osc3_on" value="0.0"/>
+    <PARAM id="osc3_level" value="0.800000011920929"/>
+    <PARAM id="osc3_coarse" value="0.0"/>
+    <PARAM id="osc3_fine" value="0.0"/>
+    <PARAM id="amp_attack" value="0.003000000491738319"/>
+    <PARAM id="amp_decay" value="1.999999761581421"/>
+    <PARAM id="amp_sustain" value="0.1500000059604645"/>
+    <PARAM id="amp_release" value="0.5"/>
+    <PARAM id="filter_type" value="0.0"/>
+    <PARAM id="filter_cutoff" value="1500.000244140625"/>
+    <PARAM id="filter_res" value="0.05000000074505806"/>
+    <PARAM id="filter_keytrack" value="0.5"/>
+    <PARAM id="filter_envamt" value="0.3500000238418579"/>
+    <PARAM id="fenv_attack" value="0.001000000047497451"/>
+    <PARAM id="fenv_decay" value="0.6000001430511475"/>
+    <PARAM id="fenv_sustain" value="0.2000000029802322"/>
+    <PARAM id="fenv_release" value="0.3999999165534973"/>
+    <PARAM id="lfo1_wave" value="0.0"/>
+    <PARAM id="lfo1_rate" value="2.000000715255737"/>
+    <PARAM id="lfo1_sync" value="0.0"/>
+    <PARAM id="lfo1_div" value="6.0"/>
+    <PARAM id="lfo1_depth" value="1.0"/>
+    <PARAM id="lfo1_mode" value="0.0"/>
+    <PARAM id="lfo1_delay" value="0.0"/>
+    <PARAM id="lfo1_phase" value="0.0"/>
+    <PARAM id="lfo1_target" value="0.0"/>
+    <PARAM id="lfo1_amount" value="0.0"/>
+    <PARAM id="lfo1_modwheel" value="0.0"/>
+    <PARAM id="lfo2_wave" value="0.0"/>
+    <PARAM id="lfo2_rate" value="2.000000715255737"/>
+    <PARAM id="lfo2_sync" value="0.0"/>
+    <PARAM id="lfo2_div" value="6.0"/>
+    <PARAM id="lfo2_depth" value="1.0"/>
+    <PARAM id="lfo2_mode" value="0.0"/>
+    <PARAM id="lfo2_delay" value="0.0"/>
+    <PARAM id="lfo2_phase" value="0.0"/>
+    <PARAM id="lfo2_target" value="0.0"/>
+    <PARAM id="lfo2_amount" value="0.0"/>
+    <PARAM id="chorus_on" value="0.0"/>
+    <PARAM id="chorus_rate" value="0.5999999642372131"/>
+    <PARAM id="chorus_depth" value="0.5"/>
+    <PARAM id="chorus_mix" value="0.5"/>
+    <PARAM id="delay_on" value="0.0"/>
+    <PARAM id="delay_time" value="374.9999694824219"/>
+    <PARAM id="delay_sync" value="0.0"/>
+    <PARAM id="delay_div" value="10.0"/>
+    <PARAM id="delay_feedback" value="0.3499999940395355"/>
+    <PARAM id="delay_pingpong" value="0.0"/>
+    <PARAM id="delay_highcut" value="6000.0"/>
+    <PARAM id="delay_mix" value="0.300000011920929"/>
+    <PARAM id="reverb_on" value="1.0"/>
+    <PARAM id="reverb_size" value="0.6000000238418579"/>
+    <PARAM id="reverb_damping" value="0.6000000238418579"/>
+    <PARAM id="reverb_width" value="1.0"/>
+    <PARAM id="reverb_predelay" value="20.0"/>
+    <PARAM id="reverb_mix" value="0.300000011920929"/>
+    <PARAM id="master_gain" value="-6.200000762939453"/>
+  </SynSyn1000>
+</SynSyn1000Preset>
